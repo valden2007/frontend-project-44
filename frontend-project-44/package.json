@@ -1,0 +1,19 @@
+{
+  "name": "frontend-project-44-main",
+  "version": "1.0.0",
+  "description": "[![Actions Status](https://github.com/Dante4292/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Dante4292/frontend-project-44/actions)",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@stylistic/eslint-plugin": "^5.10.0",
+    "eslint": "^10.5.0"
+  }
+}
